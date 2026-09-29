@@ -1,0 +1,9 @@
+{
+  "name": "Kurdish Weather (كەشوهەوای کوردی)",
+  "description": "ئەپڵیکەیشنی پێشکەوتووی كەشوهەوای کوردی بە ڕووکاری مۆدێرن و زانیاری وردی کەشوهەوای شارەکانی کوردستان",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
